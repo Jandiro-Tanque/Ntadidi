@@ -1,0 +1,42 @@
+/*body {
+    margin: 0;
+    height: 100vh; /* Faz o gradiente ocupar toda a altura da tela 
+    background: radial-gradient(circle, #c5c5c5,#1e2221); /* Azul claro para verde pastel 
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    color: rgb(238, 82, 82);
+  }
+  h1 {
+    font-size: 3rem;
+  }*/
+  body{
+    background-color: black;
+    color: #ccc;
+  }
+  a{
+    display: inline-block;
+    color: #ccc;
+  }
+  a:hover{
+    color: white;
+    transform: scale(1.05);
+  }
+  .box{
+    margin: 4rem;
+    padding: 4rem;
+    width: 20rem;
+    border: #ccc outset 6px;
+    border-radius: 90px 20px 200px;
+    height: 20rem;
+    background-color: burlywood;
+  }
+
+  a:link,a:visited{
+    text-decoration: none;
+  }
+  a:hover;a:active{
+    text-decoration: underline;
+  }

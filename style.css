@@ -18,3 +18,14 @@ body.light-mode #back {
     transform: scale(1.08);
     transition: .5s;
 }
+.cor1:hover{
+    color: rgb(112, 17, 92);
+    font-size: 47px;
+}
+.cor2:hover{
+    color: rgb(236, 231, 231);
+}
+footer{
+    background-color: #04354d;
+    color: aqua;
+}
